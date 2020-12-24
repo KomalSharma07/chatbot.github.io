@@ -1,0 +1,182 @@
+.box{
+    padding: 0px;
+    margin: 0px;
+    border:2px solid white;
+    border-radius: 22px;
+    width:456px;
+    height:650px;
+    position: relative;
+    top:100px;
+    left: 30%;
+    background-color:rgba(247, 241, 229, 0.877);
+    overflow: hidden;
+
+}
+
+.top{
+    margin:0px;
+    width: 96%;
+    height:36%;
+    padding:9px;
+    
+    background-color:orange;
+    
+    
+
+}
+
+
+
+
+.top p{
+    margin: 0px;
+    width:85%;
+    padding:3px;
+    font-family: 'Jura', sans-serif;
+    font-size: 20px;
+    color: white;
+    
+}
+
+
+.mid{
+    padding: 0px 0px;
+    position: absolute;
+    top: 120px;
+    margin: 5%;
+    width: 407px;
+    height: 489px;
+    border: 2px solid white;
+    border-radius: 3%;
+    background-color:white;
+}
+
+
+
+.mid p{
+    margin-top: 10%;
+    margin-left: 4%;
+    padding: 5px;
+    width:67%;
+    font-size: 20px;
+}
+
+
+.mid img{
+    width: 60px;
+    height: 41px;
+    position: absolute;
+    bottom: 465px;
+    left: 34px;
+    border-radius: 65%;
+    color: orange;
+}
+
+
+.mid .a{
+    
+    border:1px solid grey;
+    padding: 2px;
+    margin:4%;
+    width: 88%;
+    border-radius: 10Px;
+    font-size: 14px;
+    background-color:white;
+    font-family: 'Jura', sans-serif;
+    
+    
+}
+ .mid .a ul li::before {
+     content:"\2022";
+     font-weight: bold;
+     display: inline-block;
+     width: 1em;
+     font-size: 20px;
+     color:orange;
+     margin-left: -1em;
+     
+ }
+
+
+ .mid .b{
+    
+    border:1px solid grey;
+    padding: 0px;
+    margin:4%;
+    width: 88%;
+    border-radius: 10Px;
+    font-size: 14px;
+    background-color:white;
+    font-family: 'Jura', sans-serif;
+    
+}
+ .mid .b ul li::before {
+     content:"\2022";
+     font-weight: bold;
+     display: inline-block;
+     width: 1em;
+     font-size: 20px;
+     color:orange;
+     margin-left: -1em;
+     
+ }
+
+ .mid .c{
+    
+    border:1px solid grey;
+    padding: 0px;
+    margin:4%;
+    width:88%;
+    border-radius: 10Px;
+    font-size: 14px;
+    background-color:white;
+    font-family: 'Jura', sans-serif;    
+}
+ .mid .c ul li::before {
+     content:"\2022";
+     font-weight: bold;
+     display: inline-block;
+     width: 1em;
+     font-size: 20px;
+     color:orange;
+     margin-left: -1em;
+     
+ }
+ .mid .d{
+    
+    border:1px solid grey;
+    padding: 0px;
+    margin:4%;
+    width: 88%;
+    border-radius: 10Px;
+    font-size: 14px;
+    background-color:white;
+    font-family: 'Jura', sans-serif;    
+}
+ .mid .d ul li::before {
+     content:"\2022";
+     font-weight: bold;
+     display: inline-block;
+     width: 1em;
+     font-size: 20px;
+     color:orange;
+     margin-left: -1em;
+     
+ }
+
+
+  .chat{
+     position:absolute;
+     bottom:28px;
+     left: 34px;
+     width:81%;
+     height:53px;
+     border:1px solid  grey;
+     border-radius:55px;
+     background-color:white;
+     font-size: 20px;
+
+ }
+
+
+
